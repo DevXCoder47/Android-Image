@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidimage</string>
+    <string name="push_me">Push me!</string>
+    <string name="do_not_worry">Do not worry!</string>
+    <string name="be_happy">Be happy!</string>
+    <string name="it_is_fine">It is fine!</string>
+</resources>
